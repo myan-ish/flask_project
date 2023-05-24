@@ -1,0 +1,1 @@
+# any configuration variables that are used to initialize in the settings.py file

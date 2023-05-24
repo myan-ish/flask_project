@@ -1,0 +1,1 @@
+# collect all the urls from the apps and add them to the urlpatterns
